@@ -2,6 +2,8 @@
 <!--Roadmap counter, left out because it's buggy-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedeon)](https://github.com/anuraghazra/github-readme-stats)
 
+[HackerRank](https://www.hackerrank.com/GDFaria)
+<!--[LeetCode]https://leetcode.com/guibyn/-->
 
 - 🔭 I’m currently working on an ecommerce platform
 - 🌱 I’m currently learning Spring Framework
