@@ -4,10 +4,3 @@
 
 [HackerRank](https://www.hackerrank.com/GDFaria)
 <!--[LeetCode]https://leetcode.com/guibyn/-->
-
-- 🔭 I’m currently working on an ecommerce platform
-- 🌱 I’m currently learning Spring Framework
-- 🤔 I’m looking for help with Spring Security / JWT
-- 📫 How to reach me: gdfaria@ucs.br
-- ⚡ Fun fact: I first started learning programming in C++ when I was 11 years old, but only came back to it at 23yo.
-
